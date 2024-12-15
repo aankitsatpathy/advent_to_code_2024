@@ -32,11 +32,5 @@ def parse_file(file_path):
             print("Unsafe")
     print(s)
     return data
-
-file_path = 'input_advent_d1p1.txt'
-x = parse_file(file_path)
-
-
-
 file_path = 'input_advent_d1p1.txt'
 parse_file(file_path)
